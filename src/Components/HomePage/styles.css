@@ -1,0 +1,26 @@
+/*css for the homepage*/
+
+.d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+.home-card {
+    width: 350px;
+    height: 350px;
+    margin: 20px 20px;
+    overflow: hidden;
+}
+
+.home-img img {
+    width: 600px; 
+}
+
+.home-card-heading {
+    position: absolute;
+    color: black;
+    text-decoration: none;
+    text-shadow: 0px 2px 5px rgb(206, 206, 206);
+    z-index: 10;
+}

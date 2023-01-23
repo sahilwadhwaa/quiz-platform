@@ -1,0 +1,14 @@
+
+/* responsive code */
+  .list-container {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center; /* items will be in one line by default */
+  }
+  
+  @media (max-width: 1000px) {
+    .list-container {
+      flex-wrap: wrap;
+      align-items: center; /* items will be in two lines on screens smaller than 1000px */
+    }
+  }

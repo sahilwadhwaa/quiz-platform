@@ -1,0 +1,14 @@
+
+
+.congrats-image {
+    width: 200px;
+}
+
+/*responsive image code */
+@media (max-width: 400px) {
+    .congrats-image {
+        width: 100px;
+    }
+}
+
+  

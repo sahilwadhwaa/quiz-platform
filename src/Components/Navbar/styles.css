@@ -1,0 +1,9 @@
+.navbar {
+    text-decoration: none;
+    color: black;
+}
+.activenav {
+    color: blue;
+    position: relative;
+    text-decoration: none;
+  }
