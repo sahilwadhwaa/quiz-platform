@@ -3,6 +3,8 @@ A dynamic and user-friendly quiz platform built with React.js, Redux Toolkit and
 
 The complete app link :- https://quiz-platform-react.netlify.app/
 
+Video Link- https://youtu.be/3x4V3p5K5bE
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
