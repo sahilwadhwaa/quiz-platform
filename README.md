@@ -32,17 +32,17 @@ The application will now be running on http://localhost:3000
 
 ## Built With
 
-React.js - JavaScript library for building user interfaces
-Redux Toolkit - State management library
-MUI Framework - React UI Framework 
-React Router - Routing library for React
+* [React.js](https://reactjs.org/) - JavaScript library for building user interfaces
+* [Redux Toolkit](https://redux-toolkit.js.org/) - State management library
+* [MUI Framework](https://www.muicss.com/) - React UI Framework 
+* [React Router](https://reactrouter.com/) - Routing library for React
 
 ## Future Scope
 
-User registration and login
-Leaderboards
-Share quizzes on social media
-Edit Functionality
+* User registration and login
+* Leaderboards
+* Share quizzes on social media
+* Edit Functionality
 
 ## Authors
 
